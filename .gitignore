@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Parcel cache
+.Parcel-cache/
+
+# Parcel dist folder
+dist/
+
+# Environment variables
+.env
